@@ -32,8 +32,8 @@ public class AlbertaFragment extends Fragment {
     };
 
     public static int[] imagesAlberta = new int[]{
-            R.drawable.banff_national_park, R.drawable.lake_lousie,
-            R.drawable.west_edmenton_mall, R.drawable.calgary_tower, R.drawable.canmore
+            R.mipmap.banff_national_park, R.mipmap.lake_lousie,
+            R.mipmap.west_edmenton_mall, R.mipmap.calgary_tower, R.mipmap.canmore
     };
 
     public AlbertaFragment() {

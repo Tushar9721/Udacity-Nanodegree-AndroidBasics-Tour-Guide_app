@@ -32,7 +32,7 @@ public class BritishFragment extends Fragment {
     };
 
     public static int[] imagesBc = new int[]{
-            R.drawable.yoyo_national_park, R.drawable.vancover, R.drawable.butchart_gardens, R.drawable.haida_gawai, R.drawable.glacier_national_park
+            R.mipmap.yoyo_national_park, R.mipmap.vancover, R.mipmap.butchart_gardens, R.mipmap.haida_gawai, R.mipmap.glacier_national_park
     };
 
 

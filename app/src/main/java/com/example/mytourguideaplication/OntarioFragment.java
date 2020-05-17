@@ -31,7 +31,7 @@ public class OntarioFragment extends Fragment {
     };
 
     public static int[] imagesOntario = new int[]{
-            R.drawable.cn_tower, R.drawable.niagara_falls, R.drawable.ottawa, R.drawable.royal_museun, R.drawable.lake_of_woods
+            R.mipmap.cn_tower, R.mipmap.niagara_falls, R.mipmap.ottawa, R.mipmap.royal_museun, R.mipmap.lake_of_woods
     };
 
     public OntarioFragment() {

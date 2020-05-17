@@ -31,7 +31,7 @@ public class QuebecFragment extends Fragment {
              };
 
     public static int[] imagesQuebec = new int[]{
-            R.drawable.botanical_garden, R.drawable.gatineau_park, R.drawable.hudson_bay, R.drawable.forllion_national_park, R.drawable.bascila
+            R.mipmap.botanical_garden, R.mipmap.gatineau_park, R.mipmap.hudson_bay, R.mipmap.forllion_national_park, R.mipmap.bascila
     };
 
 
