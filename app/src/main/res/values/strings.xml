@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">MyTourGuideAplication</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ontario">Ontario</string>
+    <string name="quebec">Quebec</string>
+    <string name="british_columbia">British Columbia</string>
+    <string name="alberta">Alberta</string>
+    <string name="banff_national">Banff National Park</string>
+    <string name="lake_louise">Lake Louise</string>
+    <string name="west_edmenton">West Edmonton Mall</string>
+    <string name="calgary_tower">Calgary Tower</string>
+    <string name="canmore">Canmore</string>
+    <string name="data_alberta_one">Banff National Park is the most visited tourist attraction in Alberta and arguably the most impressive national park in Canada</string>
+    <string name="data_alberta_two">Lake Louise, the jewel of Banff National Park, is famous for its beautiful turquoise colored water that reflects the surrounding mountains and Victoria Glacier</string>
+    <string name="data_alberta_three">The West Edmonton Mall is more than just shops. Contained within this huge complex is the World Waterpark, the Mayfield Toyota Ice Palace ice rink, mini golf</string>
+    <string name="data_alberta_four">The Calgary Tower is one of the prime tourist attractions in Calgary. Standing tall on the city skyline, the tower offers the highest 360-degree observation deck in the world.</string>
+    <string name="data_alberta_five">Just outside the entrance to Banff National Park, Canmore is a lively small town with restaurants, shops, and services.</string>
+    <string name="yoho_park">Yoho National Park</string>
+    <string name="vancouver_island">Vancouver Island</string>
+    <string name="butchar">\" Butchart Gardens\"</string>
+    <string name="haida">Haida Gwaii</string>
+    <string name="glacier">Glacier National Park</string>
+    <string name="descp_british_one">Yoho National Park is home to some of British Columbia\'s most rugged and scenic mountain terrain. Snowcapped peaks, waterfalls, rivers, and crystal-clear lakes</string>
+    <string name="descp_british_two">On Canada\'s far western coast, Vancouver Island is home to some spectacular coastal scenery, mountains, lakes, and other natural attractions</string>
+    <string name="descp_british_three">Set in an old quarry, Butchart Gardens offers a fabulous display of plants, trees, and flowers.</string>
+    <string name="descp_british_four">Haida Gwaii is one of Canada\'s undiscovered treasures. These remote islands provide a wealth of culture and natural beauty, but are often overlooked by tourists.</string>
+    <string name="fdescp_british_fice">Glacier National Park, along with Mount Revelstoke National Park a few miles further west, is a scenic area and a favorite with climbers and hikers.</string>
+    <string name="cn_tower">CN Tower</string>
+    <string name="niagara_falls">Niagara Falls</string>
+    <string name="ottawa">Ottawa</string>
+    <string name="royal_ontario">Royal Ontario Museum</string>
+    <string name="lake_woods">Lake of the Woods</string>
+    <string name="descp_ontario_one">Toronto, the capital of the province of Ontario, is a major Canadian city along Lake Ontario’s northwestern shore.</string>
+    <string name="descp_ontario_two">Niagara Falls, Ontario, is a Canadian city at the famous waterfalls of the same name, linked with the U.S. by the Rainbow Bridge</string>
+    <string name="descp_ontario_three">Ottawa is Canada’s capital, in the east of southern Ontario, near the city of Montréal and the U.S. border.</string>
+    <string name="descp_ontario_for">The Royal Ontario Museum in downtown Toronto is one of the premier museums in the province, featuring a broad range of collections</string>
+    <string name="descp_ontario_five">Lake of the Woods lies on the lightly populated provincial borders of Manitoba and Ontario, and also dips into the state of Minnesota.</string>
+    <string name="monteral_black">Montreal Botanical Gardens</string>
+    <string name="gatineau_park">Gatineau Park</string>
+    <string name="hudson">Hudson Bay</string>
+    <string name="forllion_national_park">Forillon National Park</string>
+    <string name="basilica">Basilica of Sainte-Anne-de-Beaupré</string>
+    <string name="descp_quebec_one">The lush and lovely Botanical Gardens cover
+        75 hectares adjacent to the Olympic stadium in Montréal\'s Parc Maisonneuve.</string>
+    <string name="descp_quebec_two">A hilly, largely undeveloped forest and serene lakes make up Gatineau Park, located near the city and river of the same name</string>
+    <string name="descp_quebec_thre">The far-reaching landscape and waters of Hudson Bay are one of the most remote areas of Canada, covering an area of 637,000 square kilometers.</string>
+    <string name="descp_quebec_four">This wild and rugged national park sits at the tip of the Gaspé Peninsula, jutting into the Gulf of St. Lawrence. Dramatic scenery abounds, with limestone cliffs and the isolated Cap des Rosiers Lighthouse</string>
+    <string name="descp_quebec_five">Half a million pilgrims come to the quiet, riverside town of Ste-Anne de Beaupré each year, the home of the Basilica of Sainte-Anne-de-Beaupré.</string>
+</resources>
